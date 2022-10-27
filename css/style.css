@@ -1,0 +1,142 @@
+
+/*header start*/
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav__box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ul__box{
+    display: flex;
+    width: 257px;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    margin-right: 25px;
+    padding: 34px 31px;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin: 38px 100px 0px 100px;
+}
+
+
+/*header end*/
+/*main start*/
+.second_lin{
+    display: flex;
+    width: 1440px;
+height: 600px;
+left: 0px;
+top: 80px;
+background: #2D2641;
+
+}
+.image{
+width: 600px;
+height: 700px;
+
+background: url(Image.png);
+}
+.tex_box{
+    align-items: center;
+width: 540px;
+height: 84px;
+    font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+
+letter-spacing: -1px;
+
+color: #FFFFFF;
+}
+/*main end*/
+/*section start*/
+.costumer_title{
+    width: 717px;
+    font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 64px;
+
+letter-spacing: -1px;
+
+color: #2C2830;
+}
+.icony{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/*section end*/
+/*section 2 start*/
+.section2_line{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+margin: 38px 100px 0px 100px;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #2D2641;
+
+}
+.section_box{
+margin-right: 25px;
+font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 56px;
+line-height: 56px;
+
+letter-spacing: -0.777778px;
+
+color: #FFFFFF;
+
+}
+.buttom{
+margin: 25px;
+font-family: 'Karla';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+letter-spacing: 1.5px;
+
+color: #d11f1f;
+
+}
+/*section 2 end*/
+/*footer start*/
+.foter_box{
+    margin: 100px;
+    width: 111.22px;
+height: 18px;
+left: 165px;
+top: 2084px;
+
+
+}
+.footer_text{
+    display: flex;
+    
+    justify-content: space-between;
+    list-style: none;
+}
+.list{
+    list-style: none;
+}
+/*footer end*/
